@@ -1,0 +1,15 @@
+C:\Users\lis\RiderProjects\threding\threding\bin\Debug\net7.0\threding.exe
+C:\Users\lis\RiderProjects\threding\threding\bin\Debug\net7.0\threding.deps.json
+C:\Users\lis\RiderProjects\threding\threding\bin\Debug\net7.0\threding.runtimeconfig.json
+C:\Users\lis\RiderProjects\threding\threding\bin\Debug\net7.0\threding.dll
+C:\Users\lis\RiderProjects\threding\threding\bin\Debug\net7.0\threding.pdb
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\threding.csproj.AssemblyReference.cache
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\threding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\threding.AssemblyInfoInputs.cache
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\threding.AssemblyInfo.cs
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\threding.csproj.CoreCompileInputs.cache
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\threding.dll
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\refint\threding.dll
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\threding.pdb
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\threding.genruntimeconfig.cache
+C:\Users\lis\RiderProjects\threding\threding\obj\Debug\net7.0\ref\threding.dll
